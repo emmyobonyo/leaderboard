@@ -60,6 +60,7 @@ input {
 .input {
   padding: 0 5px;
 }
+
 .input::placeholder {
   font-weight: bold;
   color: black;
@@ -67,10 +68,4 @@ input {
 
 .button {
   width: 30%;
-}
-
-/* To Be Deleted */
-
-.border {
-  border: 1px solid black;
 }
