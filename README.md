@@ -1,75 +1,61 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# LEADERBOARD WEB APP
 
-> One paragraph statement about the project.
+> A Wep App that displays scores from an API and scores added by a User,
 
-![screenshot](./app_screenshot.png)
+![Mobile](./mobile.png)
+![Medium and Large Screens](./medium-to-large.png)
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
 
-## Live Demo
+<!-- ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://livedemo.com) -->
 
+# Set Up
+## Clone This Repository
+```$ git clone https://github.com/emmyobonyo/leaderboard.git```
 
-## Getting Started
+```$ cd leaderboard```
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## Run Project
+```$ npm install```
 
+```$ git checkout feature/setup-project```
 
-To get a local copy up and running follow these simple example steps.
+```$ npm run start```
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+## Open page in browser
+``` open dist/index.html```
 
 ## Authors
 
-👤 **Author1**
+👤 **Emmanuel Obonyo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@emmyobonyo](https://github.com/emmyobonyp)
+- Twitter: [@temmyobonyo](https://twitter.com/emmyobonyo)
+- LinkedIn: [Emmanuel Obonyo](https://https://www.linkedin.com/in/emmanuel-obonyo-3728a2200/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+<!-- ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](../../issues/). -->
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+<!-- ## Acknowledgments
 
 - Hat tip to anyone whose code was used
 - Inspiration
-- etc
+- etc -->
 
 ## 📝 License
 
