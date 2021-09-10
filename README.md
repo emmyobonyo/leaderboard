@@ -14,9 +14,9 @@
 
 - HTML, CSS, Javascript
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link](https://livedemo.com) -->
+[Live Demo Link](https://emmyobonyo.github.io/leaderboard/)
 
 # Set Up
 ## Clone This Repository
