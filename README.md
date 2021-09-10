@@ -7,31 +7,30 @@
 ![Mobile](./mobile.png)
 ![Medium and Large Screens](./medium-to-large.png)
 
-Additional description about the project and its features.
+- A User can add scores to the API.
+- A User can pull scores from the API using the ```Refresh``` button.
 
 ## Built With
 
-- HTML, CSS
+- HTML, CSS, Javascript
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link](https://livedemo.com) -->
+[Live Demo Link](https://emmyobonyo.github.io/leaderboard/)
 
 # Set Up
 ## Clone This Repository
-```$ git clone https://github.com/emmyobonyo/leaderboard.git```
-
-```$ cd leaderboard```
+```
+$ git clone https://github.com/emmyobonyo/leaderboard.git
+$ cd leaderboard
+```
 
 ## Run Project
-```$ npm install```
-
-```$ git checkout feature/setup-project```
-
-```$ npm run start```
-
-## Open page in browser
-``` open dist/index.html```
+```
+$ npm install
+$ git checkout feature/setup-project
+$ npm run start
+```
 
 ## Authors
 

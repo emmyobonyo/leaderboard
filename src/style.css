@@ -40,6 +40,7 @@ li {
 
 ul li:nth-child(even) {
   background-color: grey;
+  color: white;
 }
 
 .add-your-score {
