@@ -26,14 +26,10 @@ $ cd leaderboard
 ```
 
 ## Run Project
-```$ npm install
+```
+$ npm install
 $ git checkout feature/setup-project
 $ npm run start
-```
-
-## Open page in browser
-```
-open dist/index.html
 ```
 
 ## Authors

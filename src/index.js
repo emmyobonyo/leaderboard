@@ -37,11 +37,3 @@ form.addEventListener('submit', (e) => {
   inputName.value = '';
   inputScore.value = '';
 });
-
-function component() {
-  const element = document.createElement('div');
-
-  return element;
-}
-
-document.body.appendChild(component());
