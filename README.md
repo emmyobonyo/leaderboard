@@ -37,7 +37,7 @@ $ npm run start
 👤 **Emmanuel Obonyo**
 
 - GitHub: [@emmyobonyo](https://github.com/emmyobonyp)
-- Twitter: [@temmyobonyo](https://twitter.com/emmyobonyo)
+- Twitter: [@emmyobonyo](https://twitter.com/emmyobonyo)
 - LinkedIn: [Emmanuel Obonyo](https://https://www.linkedin.com/in/emmanuel-obonyo-3728a2200/)
 
 <!-- ## 🤝 Contributing
